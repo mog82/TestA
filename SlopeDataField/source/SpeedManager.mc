@@ -3,7 +3,7 @@ using Toybox.System as Sys;
 
 class SpeedManager {
 
-	// Attribut
+	// Attribut test
 	var speed = null;
 	
 	// Pour conversion m/s en km/h ou mph	
