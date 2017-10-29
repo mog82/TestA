@@ -4,7 +4,7 @@
    "@schemaLocation": "http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd",
    "metadata": {},
    "trk": {
-      "name": "Montauban Course à pied",
+      "name": "Montauban Course a pied",
       "type": "running",
       "trkseg": {
          "trkpt": [
